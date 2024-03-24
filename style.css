@@ -1,0 +1,30 @@
+#pageheader {
+    background-color: rgb(231, 154, 52);
+    text-align: center;
+    text-shadow: 5px;
+}
+
+
+#navbar {
+    background-color: rgb(238, 239, 240);
+
+    word-spacing: 20px;
+}
+
+h2 {
+
+    background-color: rgb(166, 170, 185);
+}
+
+#profileimage {
+
+    border-style: solid;
+    color: black;
+}
+
+#audioshabab {
+    border-style: hidden;
+
+    box-sizing: content-box;
+
+}
